@@ -27,7 +27,7 @@
     - Environment variables
     - Networking information
 
-### EC2 Service
+### ECS Service
 
 - ECS Services help define how many tasks should run and how they should be run
 - ensure that the number of tasks desired is running across our fleet of EC2 instances
